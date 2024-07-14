@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyGithubUserSearch</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome!</string>
+    <string name="send">Search</string>
+    <string name="searchbar_hint">Masukkan username Github</string>
+    <string name="type">type: %s</string>
+    <string name="name">Name</string>
+    <string name="follow">%1$d followers • %2$d following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="no_user">No user data available</string>
+    <string name="favorite">favorite</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
